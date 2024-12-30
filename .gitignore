@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Cache and system files
+.DS_Store
+*.cache
